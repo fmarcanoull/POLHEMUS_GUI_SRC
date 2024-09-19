@@ -16,3 +16,6 @@ This has been designed for use with MATLAB compiler using the `DIGIGUI.prj` file
 Copyright (C) 2022 Reuben W. Nixon-Hill (formerly Reuben W. Hill)
 
 This package is licenced under the MIT Licence (see LICENCE.txt).
+
+FM Modificación 2023: gestión antiguo hardware FASTRAK 
+FM 2023 Update: Management of legacy FASTRAK hardware
